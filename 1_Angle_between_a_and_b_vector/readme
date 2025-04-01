@@ -1,1 +1,4 @@
-
+1. Angle between a and b vector in POSCAR_MoS2_120 is 120 degree.
+2. How to make them 60 degree?
+3. If your current a vector is (a, 0, 0) and b vector is (0, b, 0), you can modify them to (a, 0, 0) and (a/2, b*sqrt(3)/2, 0) to get a 60-degree angle.
+4. In hexagonal MoS2, a = b, modify the lattice vectors manually
